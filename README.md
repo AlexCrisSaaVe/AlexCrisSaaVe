@@ -1,7 +1,13 @@
 ### Hi there 👋
-
-
 🔭 I’m currently studying IT at University
+
+**Skills** :
+Java Dev
+
+**Tools** :
+![visualStudioCode.png] 
+
+
 - 🌱 I’m currently learning IoT
 
 
